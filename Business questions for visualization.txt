@@ -1,0 +1,9 @@
+Business Questions
+
+For which Year and Month did tables sub category have the highest loss?
+Which Segment has the highest increase in customer base?
+For the top 3 countries based on sales, which year and month has been most successful?
+Is there any pattern in the sales on monthly or quarterly level?
+Which country has the lowest Profit to sales ratio in North Asia?
+The company has decided to create personalized Binders. Which First names should be used to create the samples?
+
